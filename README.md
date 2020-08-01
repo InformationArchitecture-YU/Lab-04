@@ -34,7 +34,7 @@ The following depicts the framework we will create for this solution:
 You will need to follow these instructions to create your environment:
 
   * 1.1 First, create a database (I called mine &#39;database-3&#39;) in Amazon RDS using the standard configuration we have typically used for this class.
-  * 1.2 Once created, test the connection using your database credentials and connection string from MySQL workbench.[^1]
+  * 1.2 Once created, test the connection using your database credentials and connection string from MySQL workbench.[1]
   
 
 ## 2.0 Load the data in S3 bucket
