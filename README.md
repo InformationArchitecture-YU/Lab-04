@@ -29,12 +29,12 @@ The goal is to generate a CSV file from public data source (IRS 990) data and lo
 
 The following depicts the framework we will create for this solution:
 
-![](RackMultipart20200801-4-1n0vaqj_html_612f00125c3da90.png)
+![](./images/screenshot_1.png)
 
 You will need to follow these instructions to create your environment:
 
   * 1.1 First, create a database (I called mine &#39;database-3&#39;) in Amazon RDS using the standard configuration we have typically used for this class.
-  * 1.2 Once created, test the connection using your database credentials and connection string from MySQL workbench. [^1]
+  * 1.2 Once created, test the connection using your database credentials and connection string from MySQL workbench.[^1]
   
 
 ## 2.0 Load the data in S3 bucket
