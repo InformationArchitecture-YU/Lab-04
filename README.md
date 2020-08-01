@@ -113,5 +113,15 @@ For this part of the Assignment, create the graphic described below and publish 
 
 Once you have completed this portion of the Assignment send the screenshot and the link to [brandon.chiazza@yu.edu](mailto:brandon.chiazza@yu.edu). Your screenshot file name should look like: LastName_FirstName_Lab_04_Submission.
 
+## Video Content
+
+Videos for this Lab can be found at the following locations: 
+- [link](http://example.com "3.1.1-create-IAM-glue-role").
+- [link](http://example.com "3.1.2-connect-to-rds-via-glue").
+- [link](http://example.com "3.2-create-data-store").
+- [link](http://example.com "3.3-create-classifier").
+- [link](http://example.com "3.4-3.6-create-crawler").
+- [link](http://example.com "3.7-create-and-run-job").
+- [link](http://example.com "4.0-create-tableau-connection-to-aws").
 [1](#sdfootnote1anc) For the RDS MySQL configuration, only MySQL v5 is compatible with [AWS Glue.](https://forums.aws.amazon.com/thread.jspa?threadID=306814)
 
