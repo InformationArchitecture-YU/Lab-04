@@ -112,7 +112,7 @@ For this part of the Assignment, create the graphic described below and publish 
 
 ![](RackMultipart20200801-4-1n0vaqj_html_10c4a961b3bd77d1.gif)
 
-Once you have completed this portion of the Assignment send the screenshot and the link to [brandon.chiazza@yu.edu](mailto:brandon.chiazza@yu.edu). Your screenshot file name should look like: \&lt;\&lt;Last\_Name\&gt;\&gt;\_\&lt;\&lt;First\_Name\&gt;\&gt;\_Lab\_04\_Submission.
+Once you have completed this portion of the Assignment send the screenshot and the link to [brandon.chiazza@yu.edu](mailto:brandon.chiazza@yu.edu). Your screenshot file name should look like: LastName_FirstName_Lab_04_Submission.
 
 [1](#sdfootnote1anc) For the RDS MySQL configuration, only MySQL v5 is compatible with [AWS Glue.](https://forums.aws.amazon.com/thread.jspa?threadID=306814)
 
