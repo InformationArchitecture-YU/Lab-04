@@ -116,12 +116,14 @@ Once you have completed this portion of the Assignment send the screenshot and t
 ## Video Content
 
 Videos for this Lab can be found at the following locations: 
-- [link](http://example.com "3.1.1-create-IAM-glue-role").
-- [link](http://example.com "3.1.2-connect-to-rds-via-glue").
-- [link](http://example.com "3.2-create-data-store").
-- [link](http://example.com "3.3-create-classifier").
-- [link](http://example.com "3.4-3.6-create-crawler").
-- [link](http://example.com "3.7-create-and-run-job").
-- [link](http://example.com "4.0-create-tableau-connection-to-aws").
+- [link](https://github.com/yeshivadataanalytics/Lab-04/blob/master/videos/Lab-04-3.1.1-create-IAM-glue-role.mp4 "3.1.1-create-IAM-glue-role").
+- [link](https://github.com/yeshivadataanalytics/Lab-04/blob/master/videos/Lab-04-3.1.2-connect-to-rds-via-glue.mp4 "3.1.2-connect-to-rds-via-glue").
+- [link](https://github.com/yeshivadataanalytics/Lab-04/blob/master/videos/Lab-04-3.2-create-data-store.mp4 "3.2-create-data-store").
+- [link](https://github.com/yeshivadataanalytics/Lab-04/blob/master/videos/Lab-04-3.3-create-classifier.mp4 "3.3-create-classifier").
+- [link](https://github.com/yeshivadataanalytics/Lab-04/blob/master/videos/Lab-04-3.4-3.6-create-crawler.mp4 "3.4-3.6-create-crawler").
+- [link](https://github.com/yeshivadataanalytics/Lab-04/blob/master/videos/Lab-04-3.7-create-and-run-job.mp4 "3.7-create-and-run-job").
+- [link](https://github.com/yeshivadataanalytics/Lab-04/blob/master/videos/Lab-04-4.0-create-tableau-connection-to-aws.mp4 "4.0-create-tableau-connection-to-aws").
+
+
 [1](#sdfootnote1anc) For the RDS MySQL configuration, only MySQL v5 is compatible with [AWS Glue.](https://forums.aws.amazon.com/thread.jspa?threadID=306814)
 
