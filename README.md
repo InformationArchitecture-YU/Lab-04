@@ -77,12 +77,11 @@ Please used the videos enclosed to assist you with completing this part of the a
   * 3.7  Once confirmed, now you can create a &#39;Job&#39; to move the data from this location (your S3 bucket), to the MySQL database. You can use the Spark/Python Shell to autogenerate the script using the Glue interface.
   * 3.8 Once you have created the Job, run it and check that the database was properly updated with the table. Your result should look like this:
 
-![](RackMultipart20200801-4-1n0vaqj_html_a50b69e9f42b6c40.gif)
+![](./images/screenshot_2.png)
 
   * 3.9 . Create a Workflow to Run the Crawler and then update your MySQL database given a time schedule trigger at 11 PM. The workflow would look like this.
 
-![](RackMultipart20200801-4-1n0vaqj_html_2ab57f391e4d470b.gif)
-
+![](./images/screenshot_3.png)
 
 ## 4.0 Create Connection and Visualization
 
@@ -110,7 +109,7 @@ You can follow the videos on Canvas should you have trouble connecting. Remember
 
 For this part of the Assignment, create the graphic described below and publish your Dashboard to Tableau Public. Your submission should be a link to the Public Dashboard and a Screenshot. Your result should look like the following:
 
-![](RackMultipart20200801-4-1n0vaqj_html_10c4a961b3bd77d1.gif)
+![](./images/screenshot_4.png)
 
 Once you have completed this portion of the Assignment send the screenshot and the link to [brandon.chiazza@yu.edu](mailto:brandon.chiazza@yu.edu). Your screenshot file name should look like: LastName_FirstName_Lab_04_Submission.
 
