@@ -21,7 +21,7 @@ The background of this dataset can be found in the following documentation:
 - [https://docs.opendata.aws/irs-990/readme.html](https://docs.opendata.aws/irs-990/readme.html)
 - [https://aws.amazon.com/opendata/public-datasets/](https://aws.amazon.com/opendata/public-datasets/)
 
-For more about AWS Glue, go [Here](https://aws.amazon.com/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
+For more about AWS Glue, go [here](https://aws.amazon.com/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
 
 The goal is to generate a CSV file from public data source (IRS 990) data and load it into a data store that you created (S3 bucket) which will then be propagated to a MySQL database for connection to Tableau. The use case represents many of the common themes learned in class.
 
