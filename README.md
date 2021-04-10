@@ -25,7 +25,9 @@ For more about AWS Glue, go [here](https://aws.amazon.com/glue/?whats-new-cards.
 
 The goal is to generate a CSV file from public data source (IRS 990) data and load it into a data store that you created (S3 bucket) which will then be propagated to a MySQL database for connection to Tableau. The use case represents many of the common themes learned in class.
 
-**This is an easy assignment if you follow the instructions carefully. Be sure to read the instructions and follow the videos.**
+**This is an easy Lab if you follow the instructions carefully. Be sure to read the instructions and follow the videos.**
+
+_NOTE: you will have to create a MySQL 5.0 version in RDS as anything v8.0+ is not compatible with Glue._
 
 ## 1.0 Set up the Infrastructure and Create the Database
 
