@@ -32,16 +32,14 @@ _NOTE: you will have to create a MySQL 5.0 version in RDS as anything v8.0+ is n
 ## Preparation 
 In order to connect AWS Glue to S3, you are going to have to create a VPC endpoint if you have not already done this in your AWS Environment. The endpoint uses an Internet Gateway to allow for external connections to S3 and into your VPC (virtual private cloud). This endpoint creation is a network update and is necessary to crawl data from an external source (in this case the IRS 990 data in an S3 bucket). 
   * 0.1 Navigate to VPC by searching 'VPC' from the aws console.
-  
-        ![](./images/Set-up_endpoint_1.PNG)
-       
+![](./images/Set-up_endpoint_1.PNG)
+
   * 0.2 From the VPC console screen you will notice a left-hand navigation menu item called "Endpoints". Click on that option and it will take you to the screen to create an endpoint. If you have never done this before, your list of endpoints will be blank. From here, select "Create Endpoint" in the upper left corner. 
- 
-        ![](./images/Set-up_endpoint_2.PNG)
+![](./images/Set-up_endpoint_2.PNG) 
+
         
   * 0.3 From this screen, you will have several options. You need to add the service you want to create an endpoint for -- that's "s3". So you will need to search for "s3" and select the service tied to the "Gateway". Next, ensure you have selected the VPC that you would like the endpoint to be created for. When doing this, you will note that AWS will update the routing information with the appropriate network IP ranges to allow for the external endpoint connection.
-
-        ![](./images/Set-up_endpoint_3.PNG)
+![](./images/Set-up_endpoint_3.PNG)
 
 Reference material: 
   * [Set-up](https://docs.aws.amazon.com/glue/latest/dg/vpc-endpoints-s3.html)
