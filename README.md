@@ -39,8 +39,8 @@ In order to connect AWS Glue to S3, you are going to have to create a VPC endpoi
         ![](./images/Set-up_endpoint_3.png)
 
 Reference material: 
-  * Set-up: [](https://docs.aws.amazon.com/glue/latest/dg/vpc-endpoints-s3.html)
-  * Example:[](https://docs.aws.amazon.com/glue/latest/dg/connection-S3-VPC.html)
+  * Set-up: [ ](https://docs.aws.amazon.com/glue/latest/dg/vpc-endpoints-s3.html)
+  * Example:[ ](https://docs.aws.amazon.com/glue/latest/dg/connection-S3-VPC.html)
 
 ## 1.0 Set up the Infrastructure and Create the Database
 
